@@ -3,6 +3,7 @@
 ## Background & Objectives
 When the user scrolls down and the navbar hits the top of the browser, we want to make it fix so the content scrolls underneath, as well as scroll out the logo.
 
+https://user-images.githubusercontent.com/67716187/145907564-daa1f1b4-5bda-4324-8aac-3c72f4acffdf.mov
 
 ## Features
 * element.offsetTop - it returns the distance of the outer border of the current element relative to the inner border of the top of the offsetParent node;
