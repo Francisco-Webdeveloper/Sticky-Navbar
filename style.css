@@ -28,7 +28,7 @@ body {
 header {
   text-align: center;
   height: 50vh;
-  background: url(https://source.unsplash.com/GKN6rpDr0EI/960x640) bottom center no-repeat;
+  background: url(https://source.unsplash.com/SRPi28IvPCM/960x640) bottom center no-repeat;
   background-size: cover;
   display: flex;
   align-items: center;
@@ -42,7 +42,7 @@ h1 {
 }
 
 nav {
-  background: black;
+  background: #155707;
   top: 0;
   width: 100%;
   transition: all 0.5s;
